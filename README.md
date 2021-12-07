@@ -46,8 +46,8 @@ This guide makes the following assumptions for your modding journey:
 
 Here are a list of reading material, communities, and other guides you may find useful along your journey.
 #### Communities
-- [RingComics' Discord](https://discord.gg/6wusMF6) - This is my personal Discord, where I host discussion and support for my various projects, including MMEFT. MMEFT has it's own channel and is eligible for the `#support` channel.
-- [Morrowind Modding Community Discord](https://discord.gg//morrowindmoddingcommunity) - The central hub for all things Morrowind modding. If you have a question about Morrowind, there's a place to ask here.
+- [RingComics' Discord](https://discord.gg/6wusMF6) - This is my personal Discord, where I host discussion and support for my various projects. Morrowind modding is a common topic here, check the `#modding` channel.
+- [Morrowind Modding Community Discord](https://discord.gg//morrowindmoddingcommunity) - The central hub for all things Morrowind modding. If you have a question about Morrowind, there's a place to ask here. MMEFT has it's own channel for support and discussion.
 - [Wabbajack Discord]() - News, support, and information regarding the Wabbajack tool. Great resource for people wanting to make their own Wabbajack list.
 
 #### Sites
