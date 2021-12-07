@@ -64,10 +64,8 @@ Here are a list of reading material, communities, and other guides you may find 
   - [Twitch](https://www.twitch.tv/ringcomics)
   - [YouTube](https://www.youtube.com/channel/UCif_YWnOGA1HLlkH_4rvIwA)
   - [NexusMods](https://www.nexusmods.com/morrowind/users/42343935?tab=user+files)
-- DarkElfGuy - DarkElfGuy's YouTube channel is a gold mine of wonderful mod showcases, and is beloved by the community.
-  - [YouTube](https://www.youtube.com/c/MorrowindModdingShowcases)
-- MickyD - Just a stand up lad who breathed new life into Morrowind's online presence. He makes comedic videos about a variety of video games, but mainly TES, with a focus on modding the game to death.
-  - [YouTube](https://www.youtube.com/c/MickyD)
+- ***[DarkElfGuy](https://www.youtube.com/c/MorrowindModdingShowcases)*** - DarkElfGuy's YouTube channel is a gold mine of wonderful mod showcases, and is beloved by the community.
+- ***[MickyD](https://www.youtube.com/c/MickyD)*** - Just a stand up lad who breathed new life into Morrowind's online presence. He makes comedic videos about a variety of video games, but mainly TES, with a focus on modding the game to death.
 
 #### Guides and Modlists
 - [Morrowind# by Sigourn](https://github.com/Sigourn/morrowind-sharp) - Morrowind# (pronounced *sharp*) is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. 
