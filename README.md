@@ -1,4 +1,5 @@
-<h1 align="center">MMEFT<br /><sup><sup align="center"><em><strong>M</strong>orrowind <strong>M</strong>odding <strong>E</strong>ssentials, <strong>F</strong>ixes, and <strong>T</strong>ools</em></sup></sup></h1>
+![Morrowind Modding Essentials, Fixes, & Tools](https://media.discordapp.net/attachments/759128899338108940/917910527676645406/MMEFT-Thumbnail.png?width=1191&height=670)
+<h1 align="center">MMEFT<br /><sup><sup align="center"><em><strong>M</strong>orrowind <strong>M</strong>odding <strong>E</strong>ssentials, <strong>F</strong>ixes, & <strong>T</strong>ools</em></sup></sup></h1>
 
 A utility modlist for TES3 - Morrowind; your ultimate guide to getting started in the wonderful world of modding.
 
