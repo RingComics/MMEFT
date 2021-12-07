@@ -4,7 +4,7 @@ A utility modlist for TES3 - Morrowind; your ultimate guide to getting started i
 
 <h6 align="center">WARNING: THIS GUIDE IS STILL UNDER CONSTRUCTION</h6>
 
-This list is set up as a guide, but is easily installable using the [Wabbajack](https://www.wabbajack.org) tool. I recommend going through the guide at least once, as it holds valuable lessons you will need along your journey. The Wabbajack install is intended for users who know what they are doing and want to get straight to modding. Skip to the Wabbajack section of the read me to install the list via Wabbajack.
+This list is set up as a guide, but is easily installable using the [Wabbajack](https://www.wabbajack.org) tool. I recommend going through the guide at least once, as it holds valuable lessons you will need along your journey. The Wabbajack install is intended for users who know what they are doing and want to get straight to modding. Skip to the end to install the list via Wabbajack.
 
 ## Table of Contents (WIP)
 0. Read me (this page!)
