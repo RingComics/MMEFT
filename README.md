@@ -12,7 +12,7 @@ This list is set up as a guide, but is easily installable using the [Wabbajack](
     - Assumptions
     - Resources
     - Introduction
-1. Getting Started
+1. [Getting Started](https://github.com/RingComics/MMEFT/wiki/Getting-Started)
     - Setting up Morrowind
     - Setting up Mod Organizer
     - Setting up tools
@@ -85,4 +85,4 @@ I found myself in this situation a little over a year ago when I started work on
 
 You may use this guide as you please. This is simply a collection of public knowledge (and a few tricks I've discovered) and belongs to no one. If you find a mistake within the guide, please submit a request with a fix. I will be granting permissions to several prominent modders in the Morrowind modding community to make sure MMEFT does not fade with my own lease on list maintenance, and I ask if the community is locked out of this repository, ownership will be given to anyone willing to keep it alive.
 
-<h3 align="Center"><a href="https://github.com/RingComics/MMEFT">Click here to get started</a></h3>
+<h3 align="Center"><a href="https://github.com/RingComics/MMEFT/wiki/Getting-Started">Click here to get started</a></h3>
