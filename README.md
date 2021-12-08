@@ -13,13 +13,15 @@ This list is set up as a guide, but is easily installable using the [Wabbajack](
     - Resources
     - Introduction
 1. [Getting Started](https://github.com/RingComics/MMEFT/wiki/Getting-Started)
-    - Setting up Morrowind
-    - Setting up Mod Organizer
-    - Setting up tools
+    - [Prerequisites](https://github.com/RingComics/MMEFT/wiki/Getting-Started#prerequisites)
+    - [Setting up Morrowind](https://github.com/RingComics/MMEFT/wiki/Getting-Started#setting-up-morrowind)
+    - [Setting up Mod Organizer](https://github.com/RingComics/MMEFT/wiki/Getting-Started#setting-up-mod-organizer)
+    - [Setting up tools](https://github.com/RingComics/MMEFT/wiki/Getting-Started#setting-up-tools)
     - Setting up Wabbajack
-    - Documentation
 2. Installing Mods
     - Where to get mods
+    - Installing mods using MO2
+    - Documentation
     - Testing
     - Conflict resolution
     - Wabbajack Best Practices
