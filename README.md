@@ -8,10 +8,10 @@ A utility modlist for TES3 - Morrowind; your ultimate guide to getting started i
 This list is set up as a guide, but is easily installable using the [Wabbajack](https://www.wabbajack.org) tool. I recommend going through the guide at least once, as it holds valuable lessons you will need along your journey. The Wabbajack install is intended for users who know what they are doing and want to get straight to modding. Skip to the end to install the list via Wabbajack.
 
 ## Table of Contents (WIP)
-0. Read me (this page!)
-    - Assumptions
-    - Resources
-    - Introduction
+0. [Read me (this page!)]()
+    - [Assumptions](#assumptions)
+    - [Resources](#resources)
+    - [Introduction](#introduction)
 1. [Getting Started](https://github.com/RingComics/MMEFT/wiki/Getting-Started)
     - [Prerequisites](https://github.com/RingComics/MMEFT/wiki/Getting-Started#prerequisites)
     - [Setting up Morrowind](https://github.com/RingComics/MMEFT/wiki/Getting-Started#setting-up-morrowind)
