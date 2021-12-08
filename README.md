@@ -9,9 +9,9 @@ This list is set up as a guide, but is easily installable using the [Wabbajack](
 
 ## Table of Contents (WIP)
 0. [Read me (this page!)]()
+    - [Introduction](#introduction)
     - [Assumptions](#assumptions)
     - [Resources](#resources)
-    - [Introduction](#introduction)
 1. [Getting Started](https://github.com/RingComics/MMEFT/wiki/Getting-Started)
     - [Prerequisites](https://github.com/RingComics/MMEFT/wiki/Getting-Started#prerequisites)
     - [Setting up Morrowind](https://github.com/RingComics/MMEFT/wiki/Getting-Started#setting-up-morrowind)
@@ -35,6 +35,14 @@ This list is set up as a guide, but is easily installable using the [Wabbajack](
     - tes3merge
     - tes3pcd
     - tes3view
+
+## Introduction
+
+You want to learn to mod Morrowind but don't know where to start. The guides online are helpful, but you find yourself having to read several of them to grasp a single concept. The issue lies not with the quality of these guides but the scope. Many of these guides give you a roadmap to reaching the end goal of replicating their modlist, but often fail to teach the methods needed when creating one's own load order.
+
+I found myself in this situation a little over a year ago when I started work on YAJAN. I hadn't modded for Morrowind in years, a lot had changed, and the popular guides available online weren't updated. The information I needed was scattered, buried in Discord channels and web archives and Nexus comments. This is an attempt to collect all of that information into one constantly updated guide. MMEFT is not a modlist just like a fishing pole is not a fish; it is the means of getting your own. The initial set up is fine as it is as a basic Morrowind modlist, one for purists perhaps. But its intention is to built upon. 
+
+You may use this guide as you please. This is simply a collection of public knowledge (and a few tricks I've discovered) and belongs to no one. If you find a mistake within the guide, please submit a request with a fix. I will be granting permissions to several prominent modders in the Morrowind modding community to make sure MMEFT does not fade with my own lease on list maintenance, and I ask if the community is locked out of this repository, ownership will be given to anyone willing to keep it alive.
 
 ### Assumptions
 
@@ -78,13 +86,5 @@ Here are a list of reading material, communities, and other guides you may find 
 - [An Alternative to Morrowind Rebirth by RandomPal](https://www.nexusmods.com/morrowind/mods/48812) - This guide's purpose is to provide a relatively small list of mods that when used together will replace what Morrowind Rebirth has to offer and with more modularity.
 - [You Are Just An N'wah](https://github.com/RingComics/yajan) - A Morrowind survival overhaul modlist focused on bringing Morrowind to 2020 in gameplay and graphics, downloadable using Wabbajack.
 - [MOISE](https://www.fgsmodlists.com/moise/readme/) - Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure. Download using Wabbajack.
-
-## Introduction
-
-You want to learn to mod Morrowind but don't know where to start. The guides online are helpful, but you find yourself having to read several of them to grasp a single concept. The issue lies not with the quality of these guides but the scope. Many of these guides give you a roadmap to reaching the end goal of replicating their modlist, but often fail to teach the methods needed when creating one's own load order.
-
-I found myself in this situation a little over a year ago when I started work on YAJAN. I hadn't modded for Morrowind in years, a lot had changed, and the popular guides available online weren't updated. The information I needed was scattered, buried in Discord channels and web archives and Nexus comments. This is an attempt to collect all of that information into one constantly updated guide. MMEFT is not a modlist just like a fishing pole is not a fish; it is the means of getting your own. The initial set up is fine as it is as a basic Morrowind modlist, one for purists perhaps. But its intention is to built upon. 
-
-You may use this guide as you please. This is simply a collection of public knowledge (and a few tricks I've discovered) and belongs to no one. If you find a mistake within the guide, please submit a request with a fix. I will be granting permissions to several prominent modders in the Morrowind modding community to make sure MMEFT does not fade with my own lease on list maintenance, and I ask if the community is locked out of this repository, ownership will be given to anyone willing to keep it alive.
 
 <h3 align="Center"><a href="https://github.com/RingComics/MMEFT/wiki/Getting-Started">Click here to get started</a></h3>
